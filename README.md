@@ -1,7 +1,7 @@
 #Sistema de Triagem Hospitalar: Fila com Prioridade
 
 ##Sobre o Projeto
-Este projeto implementa uma **Lista Encadeada Simples** em Python para gerenciar a fila de atendimento de um hospital[cite: 19]. O sistema classifica os pacientes por cores e números de cartão, garantindo que casos urgentes sejam atendidos primeiro.
+Este projeto implementa uma **Lista Encadeada Simples** em Python para gerenciar a fila de atendimento de um hospital. O sistema classifica os pacientes por cores e números de cartão, garantindo que casos urgentes sejam atendidos primeiro.
 
 ##Funcionalidades e Regras de Negócio
 O sistema foi desenvolvido seguindo regras estritas de prioridade:
