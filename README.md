@@ -5,9 +5,9 @@ Este projeto implementa uma **Lista Encadeada Simples** em Python para gerenciar
 
 ## Funcionalidades e Regras de Negócio
 O sistema foi desenvolvido seguindo regras estritas de prioridade:
-*Cartões Amarelos (A):** Alta prioridade. São alocados no início da fila, logo após os outros cartões amarelos já existentes. A numeração inicia em 201.
-*Cartões Verdes (V):** Baixa prioridade. São inseridos no final da fila (sem prioridade). A numeração inicia em 1.
-*Menu Interativo:** Permite adicionar pacientes, imprimir a fila de espera atual, chamar o próximo paciente para atendimento e encerrar o programa.
+**Cartões Amarelos (A):** Alta prioridade. São alocados no início da fila, logo após os outros cartões amarelos já existentes. A numeração inicia em 201.
+**Cartões Verdes (V):** Baixa prioridade. São inseridos no final da fila (sem prioridade). A numeração inicia em 1.
+**Menu Interativo:** Permite adicionar pacientes, imprimir a fila de espera atual, chamar o próximo paciente para atendimento e encerrar o programa.
 
 ## Tecnologias Utilizadas
 * Python
